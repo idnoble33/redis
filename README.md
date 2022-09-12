@@ -10,4 +10,4 @@ After uderstanding the whole project concept
 - give security and validation
 
 Note: I used nodemon to avoid going back and forth restating serve
-Also once you run #npm install and node module is added everything should be good to go
+Also once you run npm install and node module is added everything should be good to go
